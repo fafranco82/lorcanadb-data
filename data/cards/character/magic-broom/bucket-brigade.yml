@@ -1,0 +1,14 @@
+code: magic-broom_bucket-brigade
+name: Magic Broom
+version: Bucket Brigade
+cost: 2
+ink: amethyst
+inkwell: true
+traits:
+  - dreamborn
+  - broom
+strength: 2
+willpower: 2
+lore: 1
+text: |-
+  [[Sweep]] When you play this character, you may shuffle a card from any discard into its player's deck.

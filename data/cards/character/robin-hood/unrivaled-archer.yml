@@ -1,0 +1,17 @@
+code: robin-hood_unrivaled-archer
+name: Robin Hood
+version: Unrivaled Archer
+cost: 6
+ink: sapphire
+inkwell: true
+traits:
+  - storyborn
+  - hero
+strength: 4
+willpower: 4
+lore: 2
+text: |-
+  [[Feed The Poor]] When you play this character, if an opponent has more cards in their hand than you, draw a card.
+  [[Good Shot]] During your turn, this character gains {evasive}.
+keywords:
+  - evasive

@@ -1,0 +1,18 @@
+code: mickey-mouse_musketeer
+name: Mickey Mouse
+version: Musketeer
+cost: 6
+ink: steel
+inkwell: true
+traits:
+  - dreamborn
+  - hero
+  - musketeer
+strength: 2
+willpower: 7
+lore: 2
+text: |-
+  {bodyguard}.
+  [[All for One]] Your other Musketeer characters get +1[strength].
+keywords:
+  - bodyguard

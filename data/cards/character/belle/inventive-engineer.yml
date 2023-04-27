@@ -1,0 +1,16 @@
+code: belle_inventive-engineer
+name: Belle
+version: Inventive Engineer
+cost: 3
+ink: sapphire
+inkwell: true
+traits:
+  - dreamborn
+  - hero
+  - princess
+  - inventor
+strength: 2
+willpower: 3
+lore: 2
+text: |-
+  [[Tinker]] Whenever this character quests, you pay[ink] less for the next item you play this turn.

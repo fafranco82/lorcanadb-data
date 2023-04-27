@@ -1,0 +1,16 @@
+code: elsa_snow-queen
+name: Elsa
+version: Snow Queen
+cost: 3
+ink: amethyst
+inkwell: true
+traits:
+  - dreamborn
+  - hero
+  - queen
+  - sorcerer
+strength: 2
+willpower: 3
+lore: 1
+text: |-
+  [[Freeze]] [exert] — Exert chosen opposing character.

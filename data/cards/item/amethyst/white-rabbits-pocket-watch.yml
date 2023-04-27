@@ -1,0 +1,9 @@
+code: white-rabbits-pocket-watch
+name: White Rabbit's Pocket Watch
+cost: 3
+ink: amethyst
+inkwell: true
+text: |-
+  [[I'm late]] [exert], 1[ink] — Chosen character gains {Rush} this turn.
+keywords:
+  - rush

@@ -1,0 +1,12 @@
+code: goons_maleficents-underlings
+name: Goons
+version: Maleficent's Underlings
+cost: 1
+ink: steel
+inkwell: true
+traits:
+  - storyborn
+  - ally
+strength: 2
+willpower: 2
+lore: 1

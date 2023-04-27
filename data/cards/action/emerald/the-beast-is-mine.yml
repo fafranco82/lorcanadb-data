@@ -1,0 +1,9 @@
+code: the-beast-is-mine
+name: The Beast Is Mine!
+cost: 3
+ink: emerald
+inkwell: true
+text: |-
+  Chosen character gains {reckless} during their next turn.
+keywords:
+  - reckless

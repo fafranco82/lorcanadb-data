@@ -1,0 +1,12 @@
+code: scar_fiery-usurper
+name: Scar
+version: Fiery Usurper
+cost: 4
+ink: ruby
+inkwell: true
+traits:
+  - dreamborn
+  - villain
+strength: 5
+willpower: 3
+lore: 1

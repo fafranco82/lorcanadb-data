@@ -1,0 +1,6 @@
+code: shift
+name: Shift
+args:
+  - X
+rules: |-
+  You may pay {X} to play this on top of one of your characters with the same name.

@@ -1,0 +1,9 @@
+code: friends-on-the-other-side
+name: Friends On The Other Side
+cost: 3
+ink: amethyst
+inkwell: true
+traits:
+  - song
+text: |-
+  Draw 2 cards.

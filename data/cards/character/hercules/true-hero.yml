@@ -1,0 +1,17 @@
+code: hercules_true-hero
+name: Hercules
+version: True Hero
+cost: 3
+ink: steel
+inkwell: true
+traits:
+  - dreamborn
+  - hero
+  - prince
+strength: 3
+willpower: 3
+lore: 1
+text: |-
+  {bodyguard}.
+keywords:
+  - bodyguard

@@ -1,0 +1,55 @@
+type: object
+additionalProperties: false
+properties:
+  code:
+    minLength: 1
+    type: string
+  name:
+    minLength: 1
+    type: string
+  version:
+    minLength: 1
+    type: string
+  cost:
+    type: integer
+    minimum: 0
+  type:
+    type: string
+    minLength: 1
+  ink:
+    type: string
+    minLength: 1
+  inkwell:
+    type: boolean
+  traits:
+    type: array
+    items:
+      type: string
+      minLength: 1
+    minItems: 1
+    uniqueItems: true
+  strength:
+    type: integer
+    minimum: 0
+  willpower:
+    type: integer
+    minimum: 0
+  lore:
+    type: integer
+    minimum: 0
+  text:
+    type: string
+    minLength: 1
+  keywords:
+    type: array
+    items:
+      type: string
+      minLength: 1
+    minItems: 1
+    uniqueItems: true
+required:
+  - code
+  - name
+  - type
+  - ink
+  - inkwell

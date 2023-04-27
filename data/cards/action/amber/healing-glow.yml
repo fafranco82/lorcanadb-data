@@ -1,0 +1,7 @@
+code: healing-glow
+name: Healing Glow
+cost: 1
+ink: amber
+inkwell: true
+text: |-
+  Remove up to 2 damage from chosen character.

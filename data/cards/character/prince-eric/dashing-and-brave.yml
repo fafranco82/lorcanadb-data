@@ -1,0 +1,17 @@
+code: prince-eric_dashing-and-brave
+name: Prince Eric
+version: Dashing and Brave
+cost: 2
+ink: steel
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - prince
+strength: 1
+willpower: 3
+lore: 1
+text: |-
+  {challenger:+2}.
+keywords:
+  - challenger

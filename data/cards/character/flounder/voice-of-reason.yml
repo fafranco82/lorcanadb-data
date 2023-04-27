@@ -1,0 +1,12 @@
+code: flounder_voice-of-reason
+name: Flounder
+version: Voice of Reason
+cost: 1
+ink: sapphire
+inkwell: true
+traits:
+  - storyborn
+  - ally
+strength: 2
+willpower: 2
+lore: 1

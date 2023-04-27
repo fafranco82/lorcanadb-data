@@ -1,0 +1,15 @@
+code: mickey-mouse_detective
+name: Mickey Mouse
+version: Detective
+cost: 3
+ink: sapphire
+inkwell: false
+traits:
+  - dreamborn
+  - hero
+  - detective
+strength: 1
+willpower: 3
+lore: 1
+text: |-
+  [[Get Clue]] When you play this character, you may put the top card of your deck into your inkwell facedown and exerted.

@@ -1,0 +1,7 @@
+code: control-your-temper
+name: Control Your Temper!
+cost: 1
+ink: amber
+inkwell: true
+text: |-
+  Chosen character gets -2[strenth] this turn.

@@ -1,0 +1,16 @@
+code: heihei_boat-snack
+name: Heihei
+version: Boat Snack
+cost: 1
+ink: amber
+inkwell: true
+traits:
+  - storyborn
+  - ally
+strength: 1
+willpower: 2
+lore: 1
+text: |-
+  {support}.
+keywords:
+  - support

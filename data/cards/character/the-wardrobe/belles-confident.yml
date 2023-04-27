@@ -1,0 +1,12 @@
+code: the-wardrobe_belles-confident
+name: The Wardrobe
+version: Belle's Confidant
+cost: 3
+ink: amethyst
+inkwell: true
+traits:
+  - dreamborn
+  - ally
+strength: 3
+willpower: 4
+lore: 1

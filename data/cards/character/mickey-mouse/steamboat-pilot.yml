@@ -1,0 +1,13 @@
+code: mickey-mouse_steamboat-pilot
+name: Mickey Mouse
+version: Steamboat Pilot
+cost: 3
+ink: emerald
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - captain
+strength: 3
+willpower: 4
+lore: 1

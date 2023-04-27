@@ -1,0 +1,21 @@
+type: object
+additionalProperties: false
+properties:
+  code:
+    minLength: 1
+    type: string
+  name:
+    minLength: 1
+    type: string
+  version:
+    minLength: 1
+    type: string
+  type:
+    type: string
+    minLength: 1
+  text:
+    type: string
+    minLength: 1
+required:
+  - code
+  - name

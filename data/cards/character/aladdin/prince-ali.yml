@@ -1,0 +1,15 @@
+code: aladdin_prince-ali
+name: Aladdin
+version: Prince Ali
+cost: 2
+ink: emerald
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - prince
+strength: 2
+willpower: 2
+lore: 1
+text: |-
+  {ward}.

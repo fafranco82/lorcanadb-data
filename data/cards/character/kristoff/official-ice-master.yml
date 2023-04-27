@@ -1,0 +1,12 @@
+code: kristoff_official-ice-master
+name: Kristoff
+version: Official Ice Master
+cost: 3
+ink: steel
+inkwell: true
+traits:
+  - storyborn
+  - ally
+strength: 3
+willpower: 3
+lore: 2

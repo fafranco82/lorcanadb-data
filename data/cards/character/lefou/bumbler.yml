@@ -1,0 +1,14 @@
+code: lefou_bumbler
+name: Lefou
+version: Bumbler
+cost: 2
+ink: amber
+inkwell: true
+traits:
+  - storyborn
+  - ally
+strength: 1
+willpower: 2
+lore: 2
+text: |-
+  [[Loyal]] If you have a character named Gaston in play, you pay 1[ink] less to play this character.

@@ -1,0 +1,18 @@
+code: captain-hook_forceful-duelist
+name: Captain Hook
+version: Forceful Duelist
+cost: 1
+ink: steel
+inkwell: true
+traits:
+  - dreamborn
+  - villain
+  - pirate
+  - captain
+strength: 1
+willpower: 2
+lore: 1
+text: |-
+  {challenger:+2}.
+keywords:
+  - challenger

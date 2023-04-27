@@ -1,0 +1,7 @@
+code: fire-the-cannons
+name: Fire The Cannons!
+cost: 1
+ink: steel
+inkwell: false
+text: |-
+  Deal 2 damage to chosen character.

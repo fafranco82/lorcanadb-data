@@ -1,0 +1,15 @@
+code: moana_of-motunui
+name: Moana
+version: Of Motunui
+cost: 5
+ink: amber
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - princess
+strength: 1
+willpower: 6
+lore: 3
+text: |-
+  [[We Can Fix It]] Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn.

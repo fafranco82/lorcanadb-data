@@ -1,0 +1,4 @@
+code: challenger
+name: Challenger
+rules: |-
+  When challenging, this characters gets {X}[strength].

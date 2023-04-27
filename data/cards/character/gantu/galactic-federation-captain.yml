@@ -1,0 +1,15 @@
+code: gantu_galactic-federation-captain
+name: Gantu
+version: Galactic Federation Captain
+cost: 8
+ink: steel
+inkwell: true
+traits:
+  - storyborn
+  - alien
+  - captain
+strength: 6
+willpower: 6
+lore: 2
+text: |-
+  [[Under Arrest]] Characters with cost 2 or less can't challenge your characters.

@@ -1,0 +1,15 @@
+code: maleficent_sorceress
+name: Maleficent
+version: Sorceress
+cost: 3
+ink: amethyst
+inkwell: true
+traits:
+  - storyborn
+  - villain
+  - sorcerer
+strength: 2
+willpower: 2
+lore: 1
+text: |-
+  [[Cast My Spell!]] Whenever you play an action, you may draw a card.

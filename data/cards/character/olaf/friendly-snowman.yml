@@ -1,0 +1,12 @@
+code: olaf_friendly-snowman
+name: Olaf
+version: Friendly Snowman
+cost: 1
+ink: amethyst
+inkwell: true
+traits:
+  - storyborn
+  - ally
+strength: 1
+willpower: 3
+lore: 1

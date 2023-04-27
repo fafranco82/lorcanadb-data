@@ -1,0 +1,17 @@
+code: dr-facilier_charlatan
+name: Dr. Facilier
+version: Charlatan
+cost: 2
+ink: amethyst
+inkwell: true
+traits:
+  - storyborn
+  - villain
+  - sorcerer
+strength: 0
+willpower: 4
+lore: 1
+text: |-
+  {challenger:+2}.
+keywords:
+  - challenger

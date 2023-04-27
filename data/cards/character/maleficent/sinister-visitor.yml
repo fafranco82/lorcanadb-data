@@ -1,0 +1,13 @@
+code: maleficent_sinister-visitor
+name: Maleficent
+version: Sinister Visitor
+cost: 4
+ink: sapphire
+inkwell: true
+traits:
+  - storyborn
+  - villain
+  - sorcerer
+strength: 3
+willpower: 4
+lore: 2

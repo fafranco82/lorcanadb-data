@@ -1,0 +1,14 @@
+code: maximus_relentless-persuer
+name: Maximus
+version: Relentless Persuer
+cost: 3
+ink: amber
+inkwell: true
+traits:
+  - dreamborn
+  - ally
+strength: 3
+willpower: 3
+lore: 1
+text: |-
+  [[Horse Kick]] When you play this character, chosen character gets -2[strength] this turn.

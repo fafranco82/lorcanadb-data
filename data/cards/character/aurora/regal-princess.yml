@@ -1,0 +1,13 @@
+code: aurora_regal-princess
+name: Aurora
+version: Regal Princess
+cost: 2
+ink: sapphire
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - princess
+strength: 2
+willpower: 2
+lore: 2

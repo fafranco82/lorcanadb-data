@@ -1,0 +1,15 @@
+code: ariel_on-human-legs
+name: Ariel
+version: On Human Legs
+cost: 4
+ink: amber
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - princess
+strength: 3
+willpower: 4
+lore: 2
+text: |-
+  [[Voiceless]] This character can't [exert] to sing songs.

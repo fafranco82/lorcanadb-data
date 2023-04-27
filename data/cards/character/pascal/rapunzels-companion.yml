@@ -1,0 +1,16 @@
+code: pascal_rapunzels-companion
+name: Pascal
+version: Rapunzel's Companion
+cost: 1
+ink: amethyst
+inkwell: true
+traits:
+  - storyborn
+  - ally
+strength: 1
+willpower: 1
+lore: 1
+text: |-
+  [[Camouflage]] While you have another character in play, this character gains {evasive}.
+keywords:
+  - evasive

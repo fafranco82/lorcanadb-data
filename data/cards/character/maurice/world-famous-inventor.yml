@@ -1,0 +1,16 @@
+code: maurice_world-famous-inventor
+name: Maurice
+version: World-Famous Inventor
+cost: 6
+ink: sapphire
+inkwell: true
+traits:
+  - dreamborn
+  - mentor
+  - inventor
+strength: 2
+willpower: 7
+lore: 2
+text: |-
+  [[Give It a Try]] Whenever this character quests, you pay 2[ink] less for the next item you play this turn.
+  [[It Works!]] Whenever you play an item, you may draw a card.

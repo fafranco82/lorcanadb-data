@@ -1,0 +1,28 @@
+type: object
+additionalProperties: false
+properties:
+  code:
+    minLength: 1
+    type: string
+  name:
+    minLength: 1
+    type: string
+  cycle:
+    minLength: 1
+    type: string
+  size:
+    type: integer
+    minimum: 1
+  languages:
+    type: array
+    items:
+      type: string
+      minLength: 2
+      maxLength: 3
+    minItems: 1
+    uniqueItems: true
+required:
+  - code
+  - name
+  - cycle
+  - languages

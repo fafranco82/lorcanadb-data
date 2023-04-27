@@ -1,0 +1,15 @@
+code: aurora_briar-rose
+name: Aurora
+version: Briar Rose
+cost: 4
+ink: sapphire
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - princess
+strength: 2
+willpower: 5
+lore: 1
+text: |-
+  [[Disarming Beauty]] When you play this character, chosen character gets -2[strength] this turn.

@@ -1,0 +1,6 @@
+code: aladdin_heroic-outlaw
+name: Aladdin
+version: Heroic Outlaw
+text: |-
+  {Shift:5}.
+  [[Draing Exploit]] During your turn, whenever this character banishes another character in a challenge, you gain 2[lore] and each opponent loses 2[lore].

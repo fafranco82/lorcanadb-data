@@ -1,0 +1,17 @@
+code: aladdin_heroic-outlaw
+name: Aladdin
+version: Heroic Outlaw
+cost: 7
+ink: ruby
+inkwell: true
+traits:
+  - floodborn
+  - hero
+strength: 5
+willpower: 5
+lore: 2
+text: |-
+  {shift:5}.
+  [[Draing Exploit]] During your turn, whenever this character banishes another character in a challenge, you gain 2[lore] and each opponent loses 2[lore].
+keywords:
+  - shift

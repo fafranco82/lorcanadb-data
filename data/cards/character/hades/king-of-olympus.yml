@@ -1,0 +1,19 @@
+code: hades_king-of-olympus
+name: Hades
+version: King of Olympus
+cost: 8
+ink: amber
+inkwell: false
+traits:
+  - floodborn
+  - villain
+  - king
+  - deity
+strength: 6
+willpower: 7
+lore: 1
+text: |-
+  {shift:6}.
+  [[Sinister Plot]] This character get +1[lore] for every other Villain character you have in play.
+keywords:
+  - shift

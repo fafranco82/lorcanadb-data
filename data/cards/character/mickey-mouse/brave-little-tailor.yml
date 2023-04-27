@@ -1,0 +1,16 @@
+code: mickey-mouse_brave-little-tailor
+name: Mickey Mouse
+version: Brave Little Tailor
+cost: 8
+ink: ruby
+inkwell: true
+traits:
+  - dreamborn
+  - hero
+strength: 5
+willpower: 5
+lore: 4
+text: |-
+  {evasive}.
+keywords:
+  - evasive

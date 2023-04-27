@@ -1,0 +1,14 @@
+code: cruella-de-vil_miserable-as-usual
+name: Cruella De Vil
+version: Miserable As Usual
+cost: 2
+ink: emerald
+inkwell: true
+traits:
+  - storyborn
+  - villain
+strength: 1
+willpower: 3
+lore: 1
+text: |-
+  [[You'll Be Sorry!]] When this character is challenged and banished, you may return chosen character to their player's hand.

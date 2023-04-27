@@ -1,0 +1,12 @@
+code: jasmine_disguised
+name: Jasmine
+version: Disguised
+cost: 3
+ink: sapphire
+inkwell: true
+traits:
+  - storyborn
+  - princess
+strength: 3
+willpower: 3
+lore: 2

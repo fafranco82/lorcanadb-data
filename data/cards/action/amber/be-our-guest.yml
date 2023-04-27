@@ -1,0 +1,9 @@
+code: be-our-guest
+name: Be Our Guest
+cost: 2
+ink: amber
+inkwell: true
+traits:
+  - song
+text: |-
+  Look ath the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.

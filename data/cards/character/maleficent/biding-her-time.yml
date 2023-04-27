@@ -1,0 +1,13 @@
+code: maleficent_biding-her-time
+name: Maleficent
+version: Biding Her Time
+cost: 1
+ink: amethyst
+inkwell: false
+traits:
+  - dreamborn
+  - villain
+  - sorcerer
+strength: 1
+willpower: 1
+lore: 2

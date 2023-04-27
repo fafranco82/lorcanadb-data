@@ -1,0 +1,19 @@
+code: simba_returned-king
+name: Simba
+version: Returned King
+cost: 7
+ink: steel
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - king
+strength: 4
+willpower: 6
+lore: 2
+text: |-
+  {challenger:+4}.
+  [[Pounce]] During your turn, this character gains {evasive}.
+keywords:
+  - challenger
+  - evasive

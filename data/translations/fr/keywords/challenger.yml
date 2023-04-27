@@ -1,0 +1,4 @@
+code: challenger
+name: Offensif
+rules: |-
+  Lorsqu'il défie, ce personnage gagne {X}[strength].

@@ -1,0 +1,7 @@
+code: beasts-mirror
+name: Beast's Mirror
+cost: 2
+ink: steel
+inkwell: true
+text: |-
+  [[Show Me]] [exert], 3[ink] — If you have no cards in your hand, draw a card.

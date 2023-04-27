@@ -1,0 +1,14 @@
+code: scar_mastermind
+name: Scar
+version: Mastermind
+cost: 6
+ink: sapphire
+inkwell: true
+traits:
+  - storyborn
+  - villain
+strength: 5
+willpower: 4
+lore: 2
+text: |-
+  [[Insidious Plot]] When you play this character, chosen opposing character gets 5[strength] this turn.

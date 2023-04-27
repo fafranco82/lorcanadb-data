@@ -1,0 +1,4 @@
+code: shift
+name: Alter
+rules: |-
+  Vous pouvez payer {X} [ink] pour jouer ce personnage sur l'un de vos personnages *with the same name*

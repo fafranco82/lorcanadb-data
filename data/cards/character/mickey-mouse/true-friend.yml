@@ -1,0 +1,12 @@
+code: mickey-mouse_true-friend
+name: Mickey Mouse
+version: True Friend
+cost: 3
+ink: amber
+inkwell: true
+traits:
+  - storyborn
+  - hero
+strength: 3
+willpower: 3
+lore: 2

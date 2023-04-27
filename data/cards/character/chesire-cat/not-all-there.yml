@@ -1,0 +1,13 @@
+code: chesire-cat_not-all-there
+name: Chesire Cat
+version: Not All There
+cost: 3
+ink: emerald
+inkwell: true
+traits:
+  - storyborn
+strength: 0
+willpower: 3
+lore: 2
+text: |-
+  [[Lose Something?]] When this character is challenged and banished, banish the challenging character.

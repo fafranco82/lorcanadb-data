@@ -1,0 +1,15 @@
+code: mickey-mouse_wayward-sorcerer
+name: Mickey Mouse
+version: Wayward Sorcerer
+cost: 4
+ink: amethyst
+inkwell: true
+traits:
+  - dreamborn
+  - sorcerer
+strength: 3
+willpower: 4
+lore: 2
+text: |-
+  [[Animate Boom]] You pay 1[ink] less to play Broom characters.
+  [[Ceaseless Worker]] Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.

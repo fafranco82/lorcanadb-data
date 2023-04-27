@@ -1,0 +1,23 @@
+type: object
+additionalProperties: false
+properties:
+  code:
+    minLength: 1
+    type: string
+  name:
+    minLength: 1
+    type: string
+  args:
+    type: array
+    items:
+      type: string
+      minLength: 1
+    minItems: 1
+    uniqueItems: true
+  rules:
+    type: string
+    minLength: 1
+required:
+  - code
+  - name
+  - rules

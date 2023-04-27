@@ -1,0 +1,62 @@
+- code: mickey-mouse_brave-little-tailor#d23-expo-collector
+  card: mickey-mouse_brave-little-tailor
+  set: d23-expo-collector
+  position: 1
+  rarity: promo
+  illustrator: Nicholas Kole
+  flavor: |-
+    When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.
+
+- code: stitch_rock-star#d23-expo-collector
+  card: stitch_rock-star
+  set: d23-expo-collector
+  position: 2
+  rarity: promo
+  illustrator: Simangaliso Sibaya
+  flavor: |-
+    The best part about a beachside concert is that there's always room for one more.
+
+- code: elsa_snow-queen#d23-expo-collector
+  card: elsa_snow-queen
+  set: d23-expo-collector
+  position: 3
+  rarity: promo
+  illustrator: Nicholas Kole
+  flavor: |-
+    Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.
+
+- code: cruella-de-vil_miserable-as-usual#d23-expo-collector
+  card: cruella-de-vil_miserable-as-usual
+  set: d23-expo-collector
+  position: 4
+  rarity: promo
+  illustrator: Nicholas Kole
+  flavor: |-
+    When she stops by, misery is company.
+
+- code: maleficent_monstrous-dragon#d23-expo-collector
+  card: maleficent_monstrous-dragon
+  set: d23-expo-collector
+  position: 5
+  rarity: promo
+  illustrator: Luis Huerta
+  flavor: |-
+    The ninth Rule of Villainy: When all else fails, turn into a dragon.
+
+- code: robin-hood_unrivaled-archer#d23-expo-collector
+  card: robin-hood_unrivaled-archer
+  set: d23-expo-collector
+  position: 6
+  rarity: promo
+  illustrator: John Loren
+  flavor: |-
+    "We never rob. We just sort of borrow a bit from those who can afford it."
+
+- code: captain-hook_forceful-duelist#d23-expo-collector
+  card: captain-hook_forceful-duelist
+  set: d23-expo-collector
+  position: 7
+  rarity: promo
+  illustrator: Mercel Berg
+  flavor: |-
+    He loves to make light of a foe'e predicament.

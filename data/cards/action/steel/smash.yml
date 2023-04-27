@@ -1,0 +1,7 @@
+code: smash
+name: Smash
+cost: 3
+ink: steel
+inkwell: true
+text: |-
+  Deal 3 damage to chosen character.

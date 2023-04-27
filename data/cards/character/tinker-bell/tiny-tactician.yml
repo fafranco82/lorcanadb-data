@@ -1,0 +1,15 @@
+code: tinker-bell_tiny-tactician
+name: Tinker Bell
+version: Tiny Tactician
+cost: 3
+ink: steel
+inkwell: true
+traits:
+  - dreamborn
+  - ally
+  - fairy
+strength: 2
+willpower: 4
+lore: 1
+text: |-
+  [[Battle Plans]] [exert] — Draw a card, then choose and discard a card.

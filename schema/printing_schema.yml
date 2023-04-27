@@ -1,0 +1,30 @@
+type: object
+additionalProperties: false
+properties:
+  code:
+    type: string
+    minLength: 1
+  card:
+    type: string
+    minLength: 1
+  set:
+    type: string
+    minLength: 1
+  position:
+    type: integer
+    minimum: 1
+  rarity:
+    type: string
+    minLength: 1
+  illustrator:
+    type: string
+    minLength: 1
+  flavor:
+    type: string
+    minLength: 1
+required:
+  - code
+  - card
+  - position
+  - rarity
+  - set

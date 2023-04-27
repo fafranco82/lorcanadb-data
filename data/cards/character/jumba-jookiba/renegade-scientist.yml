@@ -1,0 +1,13 @@
+code: jumba-jookiba_renegade-scientist
+name: Jumba Jookiba
+version: Renegade Scientist
+cost: 5
+ink: emerald
+inkwell: true
+traits:
+  - dreamborn
+  - alien
+  - inventor
+strength: 4
+willpower: 5
+lore: 2

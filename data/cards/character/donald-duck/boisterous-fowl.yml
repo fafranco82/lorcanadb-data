@@ -1,0 +1,11 @@
+code: donald-duck_boisterous-fowl
+name: Donald Duck
+version: Boisterous Fowl
+cost: 1
+ink: ruby
+inkwell: true
+traits:
+  - storyborn
+strength: 2
+willpower: 3
+lore: 1

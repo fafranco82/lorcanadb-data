@@ -1,0 +1,9 @@
+code: part-of-your-world
+name: Part Of Your World
+cost: 3
+ink: amber
+inkwell: false
+traits:
+  - song
+text: |-
+  Return a character card from your discard to your hand.

@@ -1,0 +1,9 @@
+code: one-jump-ahead
+name: One Jump Ahead
+cost: 2
+ink: sapphire
+inkwell: false
+traits:
+  - song
+text: |-
+  Put the top card of your deck into your inkwell facedown and exerted.

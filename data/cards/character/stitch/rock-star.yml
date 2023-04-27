@@ -1,0 +1,18 @@
+code: stitch_rock-star
+name: Stitch
+version: Rock Star
+cost: 6
+ink: amber
+inkwell: true
+traits:
+  - floodborn
+  - hero
+  - alien
+strength: 3
+willpower: 5
+lore: 3
+text: |-
+  {shift:4}.
+  [[Adoring Fans]] Whenever you play a character with cost 2 or less, you may exert them to draw a card.
+keywords:
+  - shift

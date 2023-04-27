@@ -1,0 +1,15 @@
+code: mulan_imperial-soldier
+name: Mulan
+version: Imperial Soldier
+cost: 5
+ink: ruby
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - princess
+strength: 4
+willpower: 5
+lore: 1
+text: |-
+  [[Lead By Example]] During your turn, whenever this character banishes another character in a challenge, your other characters get +1[lore] this turn.

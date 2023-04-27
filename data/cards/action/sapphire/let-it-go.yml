@@ -1,0 +1,9 @@
+code: let-it-go
+name: Let It Go
+cost: 5
+ink: sapphire
+inkwell: true
+traits:
+  - song
+text: |-
+  Put chose character into their player's inkwell facedown and exerted.

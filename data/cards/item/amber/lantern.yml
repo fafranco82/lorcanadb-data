@@ -1,0 +1,7 @@
+code: lantern
+name: Lantern
+cost: 2
+ink: amber
+inkwell: false
+text: |-
+  [[Birthday Lights]] [exert] — You pay 1[ink] less for the nex character you play this turn.

@@ -1,0 +1,13 @@
+code: stitch_new-dog
+name: Stitch
+version: New Dog
+cost: 1
+ink: amber
+inkwell: true
+traits:
+  - storyborn
+  - hero
+  - alien
+strength: 2
+willpower: 2
+lore: 1

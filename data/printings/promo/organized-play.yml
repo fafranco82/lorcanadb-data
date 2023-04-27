@@ -1,0 +1,26 @@
+- code: mickey-mouse_detective#organized-play
+  card: mickey-mouse_detective
+  set: organized-play
+  position: 8
+  rarity: promo
+  illustrator: Jared Nickerl
+  flavor: |-
+    Wherever the seawed had come from, Mickey was sure of one thing: something fishy was going on.
+
+- code: heihei_boat-snack#organized-play
+  card: heihei_boat-snack
+  set: organized-play
+  position: 9
+  rarity: promo
+  illustrator: Jenna Gray
+  flavor: |-
+    "Sometimes, our strengths lie beneath the surface. Far beneath, in some cases…" —Moana
+
+- code: yzma_alchemist#organized-play
+  card: yzma_alchemist
+  set: organized-play
+  position: 10
+  rarity: promo
+  illustrator: Hadjie Joos
+  flavor: |-
+    "When I want your opinion, I will give it to you!"

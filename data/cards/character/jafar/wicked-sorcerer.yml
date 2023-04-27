@@ -1,0 +1,17 @@
+code: jafar_wicked-sorcerer
+name: Jafar
+version: Wicked Sorcerer
+cost: 4
+ink: amethyst
+inkwell: true
+traits:
+  - dreamborn
+  - villain
+  - sorcerer
+strength: 2
+willpower: 5
+lore: 1
+text: |-
+  {challenger:+3}.
+keywords:
+  - challenger

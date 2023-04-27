@@ -1,0 +1,7 @@
+code: magic-mirror
+name: Magic Mirror
+cost: 2
+ink: amethyst
+inkwell: false
+text: |-
+  [[Speak!]] [exert], 4[ink] — Draw a card.

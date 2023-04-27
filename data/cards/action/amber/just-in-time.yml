@@ -1,0 +1,7 @@
+code: just-in-time
+name: Just In Time
+cost: 3
+ink: amber
+inkwell: false
+text: |-
+  You may play a character with cost 5 or less for free.

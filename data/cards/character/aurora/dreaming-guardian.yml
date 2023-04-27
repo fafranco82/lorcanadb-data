@@ -1,0 +1,19 @@
+code: aurora_dreaming-guardian
+name: Aurora
+version: Dreaming Guardian
+cost: 5
+ink: sapphire
+inkwell: true
+traits:
+  - floodborn
+  - hero
+  - princess
+strength: 3
+willpower: 5
+lore: 2
+text: |-
+  {shift:3}.
+  [[Protective Embrace]] Your other characters gain {ward}.
+keywords:
+  - shift
+  - ward

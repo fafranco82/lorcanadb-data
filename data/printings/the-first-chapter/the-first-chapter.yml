@@ -1,0 +1,635 @@
+- code: ariel_on-human-legs#the-first-chapter
+  card: ariel_on-human-legs
+  set: the-first-chapter
+  position: 1
+  rarity: uncommon
+  illustrator: Matthew Robert Davies
+  flavor: |-
+    "…"
+
+- code: hades_king-of-olympus#the-first-chapter
+  card: hades_king-of-olympus
+  set: the-first-chapter
+  position: 5
+  rarity: rare
+  illustrator: Alex Accorsi
+  flavor: |-
+    "Oh hey, I'm gonna need new business cards."
+
+- code: hades_lord-of-underworld#the-first-chapter
+  card: hades_lord-of-underworld
+  set: the-first-chapter
+  position: 6
+  rarity: rare
+  illustrator: Randy Bishop
+  flavor: |-
+    "Production ia up, costs are down, the rivers are full. Time to talk expansion."
+
+- code: heihei_boat-snack#the-first-chapter
+  card: heihei_boat-snack
+  set: the-first-chapter
+  position: 7
+  rarity: common
+  illustrator: Jenna Gray
+  flavor: |-
+    "Sometimes, our strengths lie beneath the surface. Far beneath, in some cases…" —Moana
+
+- code: lefou_bumbler#the-first-chapter
+  card: lefou_bumbler
+  set: the-first-chapter
+  position: 8
+  rarity: uncommon
+  illustrator: Andrey Chumak
+  flavor: |-
+    You need a good toady to be a proper bad guy.
+
+- code: maximus_relentless-persuer#the-first-chapter
+  card: maximus_relentless-persuer
+  set: the-first-chapter
+  position: 11
+  rarity: uncommon
+  illustrator: Kendall Hale
+  flavor: |-
+    He pursues his quarry with courage, discipline, and a touch of class.
+
+- code: mickey-mouse_true-friend#the-first-chapter
+  card: mickey-mouse_true-friend
+  set: the-first-chapter
+  position: 12
+  rarity: uncommon
+  illustrator: Dave Beauchene
+  flavor: |-
+    As long as he's around, newcomers to the Great Illuminary will always get a warm welcome.
+
+- code: minnie-mouse_beloved-princess#the-first-chapter
+  card: minnie-mouse_beloved-princess
+  set: the-first-chapter
+  position: 13
+  rarity: common
+  illustrator: Kendall Hale
+  flavor: |-
+    Wherever the princess goes, her musketeers are… well, they're around somewhere, probably.
+
+- code: moana_of-motunui#the-first-chapter
+  card: moana_of-motunui
+  set: the-first-chapter
+  position: 14
+  rarity: rare
+  illustrator: Nicholas Kole
+  flavor: |-
+    "I am Moana of Motunui. You will board my boat, sail across the sea, and restore the heart of Te Fiti."
+
+- code: stitch_new-dog#the-first-chapter
+  card: stitch_new-dog
+  set: the-first-chapter
+  position: 22
+  rarity: common
+  illustrator: Alex Accorsi
+  flavor: |-
+    Lilo: "David! I got a new dog!"
+    David: "Auwe!… You sure it's a dog?"
+    Lilo: "Uh-huh. He used to be a collie before he got ran over."
+
+- code: stitch_rock-star#the-first-chapter
+  card: stitch_rock-star
+  set: the-first-chapter
+  position: 23
+  rarity: superrare
+  illustrator: Simangaliso Sibaya
+  flavor: |-
+    The best part about a beachside concert is that there's always room for one more.
+
+- code: be-our-guest#the-first-chapter
+  card: be-our-guest
+  set: the-first-chapter
+  position: 25
+  rarity: uncommon
+  illustrator: R. La Barbera / L. Giammichele
+
+- code: control-your-temper#the-first-chapter
+  card: control-your-temper
+  set: the-first-chapter
+  position: 26
+  rarity: uncommon
+  illustrator: Amber Kommavongsa
+
+- code: just-in-time#the-first-chapter
+  card: just-in-time
+  set: the-first-chapter
+  position: 29
+  rarity: rare
+  illustrator: Leonardo Giammichele
+  flavor: |-
+    The best heroes always arrive at the perfect moment-whether they know it or not
+
+- code: part-of-your-world#the-first-chapter
+  card: part-of-your-world
+  set: the-first-chapter
+  position: 30
+  rarity: rare
+  illustrator: Samanta Erdini
+  flavor: |-
+    What would I give
+    If I could live out of these waters?
+
+- code: dinglehopper#the-first-chapter
+  card: dinglehopper
+  set: the-first-chapter
+  position: 32
+  rarity: common
+  illustrator: Eri Welli
+  flavor: |-
+    Enjoy the finest of human hairstyles!
+
+- code: lantern#the-first-chapter
+  card: lantern
+  set: the-first-chapter
+  position: 33
+  rarity: rare
+  illustrator: Eri Welli
+  flavor: |-
+    Lanterns fill the sky on one special night, beacons of hope and love.
+
+- code: dr-facilier_charlatan#the-first-chapter
+  card: dr-facilier_charlatan
+  set: the-first-chapter
+  position: 38
+  rarity: common
+  illustrator: Grace Tran
+  flavor: |-
+    "Enchantée. A tip of the hat from Dr. Facilier."
+
+- code: elsa_snow-queen#the-first-chapter
+  card: elsa_snow-queen
+  set: the-first-chapter
+  position: 41
+  rarity: uncommon
+  illustrator: Nicholas Kole
+  flavor: |-
+    Recreated by magical ink, Elsa found herself in an unfamiliar new world. Fortunately, ice works the same way everywhere.
+
+- code: jafar_wicked-sorcerer#the-first-chapter
+  card: jafar_wicked-sorcerer
+  set: the-first-chapter
+  position: 45
+  rarity: common
+  illustrator: Jake Parker
+  flavor: |-
+    "Enough skulking about. It's time to show that sniveling sultan what a sorcerer can do."
+
+- code: magic-broom_bucket-brigade#the-first-chapter
+  card: magic-broom_bucket-brigade
+  set: the-first-chapter
+  position: 47
+  rarity: common
+  illustrator: Dav Augereau / Giulia Riva
+  flavor: |-
+    In the immense story-forge known as the Great Illuminary, there is always work to be done.
+
+- code: maleficent_biding-her-time#the-first-chapter
+  card: maleficent_biding-her-time
+  set: the-first-chapter
+  position: 48
+  rarity: rare
+  illustrator: Grace Tran
+  flavor: |-
+    "One mustn't rush these things, or the greatest plan might come to nothing."
+
+- code: maleficent_sorceress#the-first-chapter
+  card: maleficent_sorceress
+  set: the-first-chapter
+  position: 49
+  rarity: common
+  illustrator: Valerio Buonfantino
+  flavor: |-
+    "You dare challenge me? Fool, my magic is more powerful than you could possible imagine!"
+
+- code: mickey-mouse_wayward-sorcerer#the-first-chapter
+  card: mickey-mouse_wayward-sorcerer
+  set: the-first-chapter
+  position: 51
+  rarity: superrare
+  illustrator: Nicholas Kole
+  flavor: |-
+    He always goes for the clean sweep.
+
+- code: olaf_friendly-snowman#the-first-chapter
+  card: olaf_friendly-snowman
+  set: the-first-chapter
+  position: 52
+  rarity: uncommon
+  illustrator: Giulia Riva
+  flavor: |-
+    "I'm Olaf and I like warm hugs!"
+
+- code: pascal_rapunzels-companion#the-first-chapter
+  card: pascal_rapunzels-companion
+  set: the-first-chapter
+  position: 53
+  rarity: uncommon
+  illustrator: Brian Weisz
+  flavor: |-
+    A true friend is always there for you, whether you can see them or not.
+
+- code: the-wardrobe_belles-confident#the-first-chapter
+  card: the-wardrobe_belles-confident
+  set: the-first-chapter
+  position: 57
+  rarity: common
+  illustrator: Giulia Riva
+  flavor: |-
+    When you simply must have the hautest couture.
+
+- code: yzma_alchemist#the-first-chapter
+  card: yzma_alchemist
+  set: the-first-chapter
+  position: 60
+  rarity: common
+  illustrator: Hadjie Joos
+  flavor: |-
+    "When I want your opinion, I will give it to you!"
+
+- code: friends-on-the-other-side#the-first-chapter
+  card: friends-on-the-other-side
+  set: the-first-chapter
+  position: 64
+  rarity: common
+  illustrator: Amber Kommavongsa
+  flavor: |-
+    The cards, the cards,
+    the cards will tell…
+
+- code: magic-mirror#the-first-chapter
+  card: magic-mirror
+  set: the-first-chapter
+  position: 66
+  rarity: rare
+  illustrator: Andrew Trabbold
+  flavor: |-
+    "What wouldst thou know, my Queen?"
+
+- code: white-rabbits-pocket-watch#the-first-chapter
+  card: white-rabbits-pocket-watch
+  set: the-first-chapter
+  position: 68
+  rarity: rare
+  illustrator: Kamil Murzyn
+  flavor: |-
+    "No wonder you're late. Why, this watch is exactly two days slow." —The Mad Hatter
+
+- code: cruella-de-vil_miserable-as-usual#the-first-chapter
+  card: cruella-de-vil_miserable-as-usual
+  set: the-first-chapter
+  position: 72
+  rarity: rare
+  illustrator: Nicholas Kole
+  flavor: |-
+    When she stops by, misery is company.
+
+- code: jumba-jookiba_renegade-scientist#the-first-chapter
+  card: jumba-jookiba_renegade-scientist
+  set: the-first-chapter
+  position: 83
+  rarity: uncommon
+  illustrator: Milica Celikovic
+  flavor: |-
+    "Created something? Ho! But that would be irresponsible and unethical. I would never, ever… make more than one."
+
+- code: mickey-mouse_steamboat-pilot#the-first-chapter
+  card: mickey-mouse_steamboat-pilot
+  set: the-first-chapter
+  position: 89
+  rarity: common
+  illustrator: Juan Diego Leon
+  flavor: |-
+    On rivers throughout the Inklands, the little steamboat's whistle answers the cheery tunes of its pilot.
+
+- code: the-beast-is-mine#the-first-chapter
+  card: the-beast-is-mine
+  set: the-first-chapter
+  position: 99
+  rarity: uncommon
+  illustrator: Matthew Robert Davies
+  flavor: |-
+    "It's only fitting that the finest hunter gets the foulest beast!" —Gaston
+
+- code: aladdin_heroic-outlaw#the-first-chapter
+  card: aladdin_heroic-outlaw
+  set: the-first-chapter
+  position: 104
+  rarity: superrare
+  illustrator: Nicholas Kole
+
+- code: donald-duck_boisterous-fowl#the-first-chapter
+  card: donald-duck_boisterous-fowl
+  set: the-first-chapter
+  position: 108
+  rarity: uncommon
+  illustrator: Kenneth Anderson
+  flavor: |-
+    "Who you callin' boisterous, buster?"
+
+- code: maleficent_monstrous-dragon#the-first-chapter
+  card: maleficent_monstrous-dragon
+  set: the-first-chapter
+  position: 113
+  rarity: legendary
+  illustrator: Luis Huerta
+  flavor: |-
+    The ninth Rule of Villainy: When all else fails, turn into a dragon.
+
+- code: mickey-mouse_brave-little-tailor#the-first-chapter
+  card: mickey-mouse_brave-little-tailor
+  set: the-first-chapter
+  position: 115
+  rarity: legendary
+  illustrator: Nicholas Kole
+  flavor: |-
+    When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.
+
+- code: mulan_imperial-soldier#the-first-chapter
+  card: mulan_imperial-soldier
+  set: the-first-chapter
+  position: 118
+  rarity: superrare
+  illustrator: Mel Milton
+
+- code: scar_fiery-usurper#the-first-chapter
+  card: scar_fiery-usurper
+  set: the-first-chapter
+  position: 122
+  rarity: common
+  illustrator: Amber Kommavongsa
+  flavor: |-
+    Consumed by the flames of ambition.
+
+- code: dragon-fire#the-first-chapter
+  card: dragon-fire
+  set: the-first-chapter
+  position: 130
+  rarity: uncommon
+  illustrator: Luis Huerta
+  flavor: |-
+    Rare is the hero who can withstand a dragon's wrath.
+
+- code: aurora_briar-rose#the-first-chapter
+  card: aurora_briar-rose
+  set: the-first-chapter
+  position: 138
+  rarity: common
+  illustrator: Rosalia Radosti
+  flavor: |-
+    "There was something strange about that voice. Too beautiful to be real." —Prince Phillip
+
+- code: aurora_dreaming-guardian#the-first-chapter
+  card: aurora_dreaming-guardian
+  set: the-first-chapter
+  position: 139
+  rarity: superrare
+  illustrator: Nicholas Kole
+  flavor: |-
+    As the princess slumbered, her power awoke.
+
+- code: aurora_regal-princess#the-first-chapter
+  card: aurora_regal-princess
+  set: the-first-chapter
+  position: 140
+  rarity: uncommon
+  illustrator: Samanta Erdini
+  flavor: |-
+    "They say if you dream a thing more than once, it's sure to come true!"
+
+- code: belle_inventive-engineer#the-first-chapter
+  card: belle_inventive-engineer
+  set: the-first-chapter
+  position: 141
+  rarity: uncommon
+  illustrator: Gabriel Romero / Pix Smith
+  flavor: |-
+    A little ingenuity and a lot of heart will take you far in this world.
+
+- code: flounder_voice-of-reason#the-first-chapter
+  card: flounder_voice-of-reason
+  set: the-first-chapter
+  position: 145
+  rarity: common
+  illustrator: Brian Weisz
+  flavor: |-
+    "Excitement… adventure… danger lurking around every cor— AAAAAGGH!"
+
+- code: jasmine_disguised#the-first-chapter
+  card: jasmine_disguised
+  set: the-first-chapter
+  position: 148
+  rarity: common
+  illustrator: R. La Barbera / L. Giammichele
+  flavor: |-
+    "Try to understand. I've never done a thing on my own. I've never had any real friends… I've never ever been outside the palace walls."
+
+- code: maleficent_sinister-visitor#the-first-chapter
+  card: maleficent_sinister-visitor
+  set: the-first-chapter
+  position: 150
+  rarity: common
+  illustrator: Nicholas Kole
+  flavor: |-
+    "The princess shall indeed grow in grace and beauty, beloved by all who know her. But before the sun sets on her sixteenth birthday, she shall prick her finger on the spindle of a spinning wheel…"
+
+- code: maurice_world-famous-inventor#the-first-chapter
+  card: maurice_world-famous-inventor
+  set: the-first-chapter
+  position: 152
+  rarity: rare
+  illustrator: Alex Accorsi
+
+- code: robin-hood_unrivaled-archer#the-first-chapter
+  card: robin-hood_unrivaled-archer
+  set: the-first-chapter
+  position: 157
+  rarity: superrare
+  illustrator: John Loren
+  flavor: |-
+    "We never rob. We just sort of borrow a bit from those who can afford it."
+
+- code: scar_mastermind#the-first-chapter
+  card: scar_mastermind
+  set: the-first-chapter
+  position: 158
+  rarity: rare
+  illustrator: Bill Robinson
+  flavor: |-
+    "The best plans involve a little danger. Just not for me."
+
+- code: develop-your-brain#the-first-chapter
+  card: develop-your-brain
+  set: the-first-chapter
+  position: 161
+  rarity: common
+  illustrator: Pao Yong
+  flavor: |-
+    "Knowledge, wisdom—there's the real power!"
+    —Merlin
+
+- code: let-it-go#the-first-chapter
+  card: let-it-go
+  set: the-first-chapter
+  position: 163
+  rarity: rare
+  illustrator: Milica Celikovic
+  flavor: |-
+    It's time to see what I can do
+    To test the limits and break through
+
+- code: one-jump-ahead#the-first-chapter
+  card: one-jump-ahead
+  set: the-first-chapter
+  position: 164
+  rarity: uncommon
+  illustrator: Bill Robinson
+  flavor: |-
+    Gotto eat to live, gotta steal to eat—
+    Tell you all about it when I got the time
+
+- code: coconut-basket#the-first-chapter
+  card: coconut-basket
+  set: the-first-chapter
+  position: 166
+  rarity: uncommon
+  illustrator: Milica Celikovic
+  flavor: |-
+    The coconut is a versatile gift from the gods, used to make nearly everything—including baskets to carry more coconuts.
+
+- code: beast_hardheaded#the-first-chapter
+  card: beast_hardheaded
+  set: the-first-chapter
+  position: 172
+  rarity: uncommon
+  illustrator: Cookie
+  flavor: |-
+    "She'll never see me as anything… but a monster."
+
+- code: captain-hook_captain-of-the-jolly-roger#the-first-chapter
+  card: captain-hook_captain-of-the-jolly-roger
+  set: the-first-chapter
+  position: 173
+  rarity: rare
+  illustrator: Adrianne Gumaya
+  flavor: |-
+    "A pretty sight, Mr. Smee. We'll pot 'em like sitting ducks."
+
+- code: captain-hook_forceful-duelist#the-first-chapter
+  card: captain-hook_forceful-duelist
+  set: the-first-chapter
+  position: 174
+  rarity: common
+  illustrator: Mercel Berg
+  flavor: |-
+    He loves to make light of a foe'e predicament.
+
+- code: gantu_galactic-federation-captain#the-first-chapter
+  card: gantu_galactic-federation-captain
+  set: the-first-chapter
+  position: 178
+  rarity: legendary
+  illustrator: Luis Huerta
+  flavor: |-
+    "Relax, enjoy the trip… and don't get any ideas!"
+
+- code: goons_maleficents-underlings#the-first-chapter
+  card: goons_maleficents-underlings
+  set: the-first-chapter
+  position: 179
+  rarity: common
+  illustrator: Cain Kendell
+  flavor: |-
+    They may be useless, but they come with the castle.
+
+- code: hercules_true-hero#the-first-chapter
+  card: hercules_true-hero
+  set: the-first-chapter
+  position: 181
+  rarity: common
+  illustrator: Marcel Berg
+  flavor: |-
+    "You gotta admit, that was pretty heroic."
+
+- code: kristoff_official-ice-master#the-first-chapter
+  card: kristoff_official-ice-master
+  set: the-first-chapter
+  position: 182
+  rarity: common
+  illustrator: Ron Baird
+  flavor: |-
+    Kristoff: "You want to talk about a supply and demand problem? I sell ice for a living."
+    Anna: "Ooh, that's a rough business to be in right now. I mean, that is really—ah, mm. That's unfortunate."
+
+- code: mickey-mouse_musketeer#the-first-chapter
+  card: mickey-mouse_musketeer
+  set: the-first-chapter
+  position: 186
+  rarity: rare
+  illustrator: Jochem Van Gool
+
+- code: prince-eric_dashing-and-brave#the-first-chapter
+  card: prince-eric_dashing-and-brave
+  set: the-first-chapter
+  position: 187
+  rarity: common
+  illustrator: Cristian Romero
+  flavor: |-
+    "I lost her once! I'm not going to lose her again!"
+
+- code: simba_returned-king#the-first-chapter
+  card: simba_returned-king
+  set: the-first-chapter
+  position: 189
+  rarity: rare
+  illustrator: Nicholas Kole
+  flavor: |-
+    "I'll do whatever it takes to save my kingdom."
+
+- code: tinker-bell_tiny-tactician#the-first-chapter
+  card: tinker-bell_tiny-tactician
+  set: the-first-chapter
+  position: 194
+  rarity: common
+  illustrator: Grace Tran
+  flavor: |-
+    Sometimes all you need is a little tactical genius.
+
+- code: fire-the-cannons#the-first-chapter
+  card: fire-the-cannons
+  set: the-first-chapter
+  position: 197
+  rarity: common
+  illustrator: Matt Chapman
+  flavor: |-
+    Captain Hook: "Double the powder and shorten the fuse!"
+    Mr. Smee: "Shorten the powder and double the fuse!"
+
+- code: smash#the-first-chapter
+  card: smash
+  set: the-first-chapter
+  position: 200
+  rarity: uncommon
+  illustrator: Simangaliso Sibaya
+  flavor: |-
+    "Go away!"
+
+- code: beasts-mirror#the-first-chapter
+  card: beasts-mirror
+  set: the-first-chapter
+  position: 201
+  rarity: common
+  illustrator: Samanta Erdini
+  flavor: |-
+    Ashamed of his monstrous form, the Beast concealed himself inside his castle, with a magic mirror as his only window to the outside world.
+
+- code: frying-pan#the-first-chapter
+  card: frying-pan
+  set: the-first-chapter
+  position: 202
+  rarity: uncommon
+  illustrator: Kamil Murzyn
+  flavor: |-
+    It's a fine piece of cookware, but as a weapon it's truly stunning.

@@ -1,0 +1,15 @@
+code: maleficent_monstrous-dragon
+name: Maleficent
+version: Monstrous Dragon
+cost: 9
+ink: ruby
+inkwell: true
+traits:
+  - storyborn
+  - villain
+  - dragon
+strength: 7
+willpower: 5
+lore: 2
+text: |-
+  [[Dragon Fire]] When you play this character, you may banish chosen character.
